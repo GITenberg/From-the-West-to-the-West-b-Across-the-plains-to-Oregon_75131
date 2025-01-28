@@ -1,11 +1,16 @@
 _repo: From-the-West-to-the-West-b-Across-the-plains-to-Oregon_75131
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75131-h/images/cover.jpg
 creator:
   author:
     agent_name: Duniway, Abigail Scott
     gutenberg_agent_id: '57850'
     url: http://www.gutenberg.org/2009/agents/57850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75131#From-the-West-to-the-West-b-Across-the-plains-to-Oregon
 gutenberg_issued: '2025-01-17'
 gutenberg_type: Text
 identifiers:
